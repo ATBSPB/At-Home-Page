@@ -703,6 +703,10 @@ footer {
         font-size: 20px;
 
     }
+    
+    .a .projectItemRight img {
+        display: block;
+    }
 
     .skill #skillWap {
         display: block;
