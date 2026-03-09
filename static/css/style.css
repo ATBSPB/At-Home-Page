@@ -641,18 +641,12 @@ footer {
         display: none;
     }
 
-    .a .projectItemRight {
-        display: none;
-
-    }
-
-    .a .projectItemRight img {
-        display: none;
-
-    }
-
     .a .projectItemLeft {
-        width: 100%;
+        width: 80%;
+    }
+    
+    .a .projectItemRight {
+        width: 20%;
     }
 
     .a {
